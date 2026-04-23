@@ -1,4 +1,4 @@
-<html lang="ja">
+<index.html lang="ja">
 <head>
 <meta charset="UTF-8">
 <title>筋トレタイマー</title>
